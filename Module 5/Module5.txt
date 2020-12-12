@@ -1,0 +1,11 @@
+Implementation URL :- http://training4-american-ws-ajay001.us-e2.cloudhub.io/api
+proxy URL :-  http://training4-american-api-ajay001.us-e2.cloudhub.io/
+
+
+Free (10 Request per min)
+Client ID : 026294d1b026492a96d7a3d7996f4a7e
+Client Secret : 1cC3d46B439E4Fbca320A492E032471A
+
+Silver (1 Request per sec)
+Client ID : 4ee11f8e572c4337a90928a9638949f0
+Client Secret : 05fc7238b30144f080b699b95cacD180
